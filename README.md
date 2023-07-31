@@ -11,7 +11,7 @@ Open the script in a Python editor or run it directly from the command line.
 ## Prerequisites
 Python 3.x or later
 
-##Installation
+## Installation
 Download the script from the GitHub repository or copy the script code to a new Python file.
 Save the file with an appropriate name, for example, "file_organiser.py".
 
