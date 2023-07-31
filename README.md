@@ -23,16 +23,16 @@ Run the script by typing: python file_organiser.py
 ## Folder Structure
 The File Organiser script creates the following subfolders within your "Downloads" folder:
 
-### Images: 
+#### Images: 
 This folder contains image files with extensions .jpg, .png, and .jpeg.
 
-### Videos: 
+#### Videos: 
 This folder contains video files with extensions .mov, .mp4, and .avi.
 
-### Docs:
+#### Docs:
 This folder contains document files with extensions .pdf, .doc, .pptx, and .xlsx.
 
-### Other: 
+#### Other: 
 This folder contains any other file types that don't fit into the above categories.
 
 ## Note
